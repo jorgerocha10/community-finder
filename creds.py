@@ -1,1 +1,1 @@
-api_token = "Zcj7AaTME159DsXhhQun6nz7H"
+api_token = "your_api_key"
