@@ -2,7 +2,7 @@
 
 Welcome to the City of Calgary Community Finder! This repository retrieves multiple datasets from the City of Calgary's open data portal and generates a structured, normalized dataset. This dataset is then utilized by a Euclidean distance script to rank, based on user input, the best communities to live in. 
 
-commFinder.py 
+/commFinder.py/ 
 
 This script contains a Python script for analyzing community data in Calgary, Canada. The script retrieves data from several datasets using the Socrata API, including property assessment values, criminality statistics, community services, parks, schools, and communities information.
 
